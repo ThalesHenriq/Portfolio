@@ -3,6 +3,7 @@
  
  Portfolio design using html, css and javascript / jquery.
  The main feature of this website are:
+
  
 ✔ responsive sticky navbar / header with toggle and scroll effect.
 ✔ responsive home section.
@@ -15,7 +16,9 @@
  PORTIFOLIO
 
  Design de portfólio utilizando html, css e javascript/jquery.
- As principais características deste site são:
+ As principais características deste site são: 
+
+ 
 ✔ Barra de navegação / cabeçalho adesivo responsivo com efeito de alternância e rolagem.
 ✔ seção inicial responsiva.
 ✔ Responsivo sobre a seção usando o Flexbox
