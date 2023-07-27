@@ -1,5 +1,5 @@
 # newproject
- PORTIFOLIO :https://thales-silva-eqvdt45er-thaleshenriq.vercel.app/
+ PORTIFOLIO :https://thales-silva.vercel.app/
  
  Portfolio design using html, css and javascript / jquery.
  The main feature of this website are:
