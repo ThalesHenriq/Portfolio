@@ -1,4 +1,4 @@
-# newproject
+# PORTIFOLIO
  PORTIFOLIO :https://thales-silva.vercel.app/
  
  Portfolio design using html, css and javascript / jquery.
