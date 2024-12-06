@@ -30,5 +30,5 @@ Font Awesome
 
  LINK :https://thales-silva.vercel.app/
 
-![PORTIFOLIO](https://github.com/ThalesHenriq/newproject/assets/125931825/b249fc7d-2ef0-45ad-aa73-cc8c1a69a028)
 
+![Captura de tela_6-12-2024_202317_thales-silva vercel app](https://github.com/user-attachments/assets/4689cde2-8abc-4333-a857-9819cae26f75)
